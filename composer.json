@@ -3,7 +3,7 @@
 	"type": "library",
 	"description": "Redis backed library for creating background jobs and processing them later. Based on resque for Ruby.",
 	"keywords": ["job", "background", "redis", "resque"],
-	"homepage": "http://www.github.com/chrisboulton/php-resque/",
+	"homepage": "http://www.github.com/jfeliu007/php-resque/",
 	"license": "MIT",
 	"authors": [
 		{
